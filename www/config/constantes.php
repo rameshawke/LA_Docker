@@ -2,7 +2,7 @@
 session_start();
 
 //Constantes
-define('SITEURL','http://localhost/LaOccidentall/');
+define('SITEURL','http://localhost/');
 define('LOCALHOST', 'db');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '12345');
