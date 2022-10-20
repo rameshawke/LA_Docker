@@ -14,7 +14,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 </head>
 <body>
-    <div class="menu">
+    <div class="menuu">
         <div class="heading">
             <div class="container">
 			<span class="text1">LA OCCIDENTAL</span>
